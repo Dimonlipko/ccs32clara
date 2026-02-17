@@ -14,3 +14,18 @@ stm32_ccs.hex
 stm32_canloader.hex
 *.hex
 
+# PlatformIO
+.pio/
+
+# VSCode
+.vscode/
+
+# Claude Code
+.claude/
+
+# Build artifacts
+build_log.txt
+obj/
+
+# Logs
+uart_log.txt
